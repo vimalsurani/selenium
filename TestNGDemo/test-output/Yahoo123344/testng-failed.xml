@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Yahoo123344]">
+  <test name="New Test">
+    <classes>
+      <class name="Basic.NewTest"/>
+    </classes>
+  </test> <!-- New Test -->
+  <test name="Rediff Login">
+    <classes>
+      <class name="Basic.redifflogin"/>
+    </classes>
+  </test> <!-- Rediff Login -->
+</suite> <!-- Failed suite [Yahoo123344] -->

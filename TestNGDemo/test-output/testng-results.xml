@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Yahoo123344" duration-ms="49" started-at="2020-05-03T16:03:36Z" finished-at="2020-05-03T16:03:37Z">
+    <groups>
+    </groups>
+    <test name="New Test" duration-ms="24" started-at="2020-05-03T16:03:36Z" finished-at="2020-05-03T16:03:36Z">
+      <class name="Basic.NewTest">
+        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Basic.NewTest@22a71081]" name="lunchApp" is-config="true" duration-ms="7" started-at="2020-05-03T21:33:36Z" finished-at="2020-05-03T21:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApp -->
+        <test-method status="PASS" signature="logininvalid()[pri:0, instance:Basic.NewTest@22a71081]" name="logininvalid" duration-ms="0" started-at="2020-05-03T21:33:36Z" finished-at="2020-05-03T21:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logininvalid -->
+        <test-method status="PASS" signature="CloseBroswer()[pri:0, instance:Basic.NewTest@22a71081]" name="CloseBroswer" is-config="true" duration-ms="0" started-at="2020-05-03T21:33:36Z" finished-at="2020-05-03T21:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBroswer -->
+        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Basic.NewTest@22a71081]" name="lunchApp" is-config="true" duration-ms="0" started-at="2020-05-03T21:33:36Z" finished-at="2020-05-03T21:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApp -->
+        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Basic.NewTest@22a71081]" name="lunchApp" is-config="true" duration-ms="1" started-at="2020-05-03T21:33:36Z" finished-at="2020-05-03T21:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApp -->
+        <test-method status="PASS" signature="CloseBroswer()[pri:0, instance:Basic.NewTest@22a71081]" name="CloseBroswer" is-config="true" duration-ms="0" started-at="2020-05-03T21:33:36Z" finished-at="2020-05-03T21:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBroswer -->
+        <test-method status="PASS" signature="loginpwdCheck()[pri:0, instance:Basic.NewTest@22a71081]" name="loginpwdCheck" duration-ms="0" started-at="2020-05-03T21:33:36Z" finished-at="2020-05-03T21:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpwdCheck -->
+        <test-method status="PASS" signature="CloseBroswer()[pri:0, instance:Basic.NewTest@22a71081]" name="CloseBroswer" is-config="true" duration-ms="0" started-at="2020-05-03T21:33:36Z" finished-at="2020-05-03T21:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBroswer -->
+        <test-method status="PASS" signature="loginvalid()[pri:0, instance:Basic.NewTest@22a71081]" name="loginvalid" duration-ms="0" started-at="2020-05-03T21:33:36Z" finished-at="2020-05-03T21:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginvalid -->
+      </class> <!-- Basic.NewTest -->
+    </test> <!-- New Test -->
+    <test name="Rediff Login" duration-ms="1" started-at="2020-05-03T16:03:37Z" finished-at="2020-05-03T16:03:37Z">
+      <class name="Basic.redifflogin">
+        <test-method status="PASS" signature="logininvalid()[pri:0, instance:Basic.redifflogin@7a92922]" name="logininvalid" duration-ms="1" started-at="2020-05-03T21:33:37Z" finished-at="2020-05-03T21:33:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logininvalid -->
+        <test-method status="PASS" signature="loginvalid()[pri:0, instance:Basic.redifflogin@7a92922]" name="loginvalid" duration-ms="0" started-at="2020-05-03T21:33:37Z" finished-at="2020-05-03T21:33:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginvalid -->
+      </class> <!-- Basic.redifflogin -->
+    </test> <!-- Rediff Login -->
+  </suite> <!-- Yahoo123344 -->
+</testng-results>

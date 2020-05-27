@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DOCTYPE suite SYSTEM "http://testing.org/testing-1.0.dtd"-->
+
+<suite name="Yahoo123344">
+<test name="New Test"> 
+	<classes>
+		<class name="Basic.NewTest"></class>	
+	</classes>
+</test>
+<test name="Rediff Login">
+	<classes>
+		<class name="Basic.redifflogin"></class>	
+	</classes>
+</test>
+
+</suite>
