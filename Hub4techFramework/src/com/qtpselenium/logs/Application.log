@@ -1,0 +1,102 @@
+26/05/2020 14:15:06 devpinoyLogger Read Suite File
+26/05/2020 14:15:07 devpinoyLogger Module Name RediffSignUp
+26/05/2020 14:15:07 devpinoyLogger Test Case will execute for Module RCreateID
+26/05/2020 14:15:07 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:07 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:07 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:07 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:07 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:07 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:07 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:07 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:07 devpinoyLogger Keywords defined as OpenWebSite
+26/05/2020 14:15:07 devpinoyLogger Inside Execute Data is config|RediffURL
+26/05/2020 14:15:07 devpinoyLogger Inside Execute Before OBJECT is 
+26/05/2020 14:15:07 devpinoyLogger  Data is https://www.rediff.com
+26/05/2020 14:15:07 devpinoyLogger  object is 
+26/05/2020 14:15:22 devpinoyLogger ----Pass
+26/05/2020 14:15:22 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:22 devpinoyLogger Keywords defined as clickLink
+26/05/2020 14:15:22 devpinoyLogger Inside Execute Data is 
+26/05/2020 14:15:22 devpinoyLogger Inside Execute Before OBJECT is RcreateAcc
+26/05/2020 14:15:32 devpinoyLogger ----Pass
+26/05/2020 14:15:32 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:32 devpinoyLogger Keywords defined as writeInInput
+26/05/2020 14:15:32 devpinoyLogger Inside Execute Data is config|RfullNm
+26/05/2020 14:15:32 devpinoyLogger Inside Execute Before OBJECT is RfullNm
+26/05/2020 14:15:32 devpinoyLogger Writing in text box Vimal
+26/05/2020 14:15:32 devpinoyLogger Writing Object in text box RfullNm
+26/05/2020 14:15:37 devpinoyLogger ----Pass
+26/05/2020 14:15:37 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:37 devpinoyLogger Keywords defined as writeInInput
+26/05/2020 14:15:37 devpinoyLogger Inside Execute Data is config|ChooseIDName
+26/05/2020 14:15:37 devpinoyLogger Inside Execute Before OBJECT is ChooseID
+26/05/2020 14:15:37 devpinoyLogger Writing in text box vimalsurani
+26/05/2020 14:15:37 devpinoyLogger Writing Object in text box ChooseID
+26/05/2020 14:15:42 devpinoyLogger ----Pass
+26/05/2020 14:15:42 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:42 devpinoyLogger Keywords defined as clickLink
+26/05/2020 14:15:42 devpinoyLogger Inside Execute Data is 
+26/05/2020 14:15:42 devpinoyLogger Inside Execute Before OBJECT is CheckAvlBtn
+26/05/2020 14:15:44 devpinoyLogger ----Pass
+26/05/2020 14:15:44 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:44 devpinoyLogger Keywords defined as writeInInput
+26/05/2020 14:15:44 devpinoyLogger Inside Execute Data is config|Rpasswd
+26/05/2020 14:15:44 devpinoyLogger Inside Execute Before OBJECT is Rpasswd
+26/05/2020 14:15:44 devpinoyLogger Writing in text box vimal
+26/05/2020 14:15:44 devpinoyLogger Writing Object in text box Rpasswd
+26/05/2020 14:15:49 devpinoyLogger ----Pass
+26/05/2020 14:15:50 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:50 devpinoyLogger Keywords defined as writeInInput
+26/05/2020 14:15:50 devpinoyLogger Inside Execute Data is config|Rconfirmpasswd
+26/05/2020 14:15:50 devpinoyLogger Inside Execute Before OBJECT is Rconfirmpasswd
+26/05/2020 14:15:50 devpinoyLogger Writing in text box vimal
+26/05/2020 14:15:50 devpinoyLogger Writing Object in text box Rconfirmpasswd
+26/05/2020 14:15:55 devpinoyLogger ----Pass
+26/05/2020 14:15:55 devpinoyLogger Inside executeKeywords
+26/05/2020 14:15:55 devpinoyLogger Keywords defined as writeInInput
+26/05/2020 14:15:55 devpinoyLogger Inside Execute Data is config|AltEmailID
+26/05/2020 14:15:55 devpinoyLogger Inside Execute Before OBJECT is AltEmail
+26/05/2020 14:15:55 devpinoyLogger Writing in text box vimal.surani@gmail.com
+26/05/2020 14:15:55 devpinoyLogger Writing Object in text box AltEmail
+26/05/2020 14:16:00 devpinoyLogger ----Pass
+26/05/2020 14:16:00 devpinoyLogger Inside executeKeywords
+26/05/2020 14:16:00 devpinoyLogger Keywords defined as writeInInput
+26/05/2020 14:16:00 devpinoyLogger Inside Execute Data is config|MobileNos
+26/05/2020 14:16:00 devpinoyLogger Inside Execute Before OBJECT is MobileNum
+26/05/2020 14:16:00 devpinoyLogger Writing in text box 9724901662
+26/05/2020 14:16:00 devpinoyLogger Writing Object in text box MobileNum
+26/05/2020 14:16:05 devpinoyLogger ----Pass
+26/05/2020 14:16:05 devpinoyLogger Inside executeKeywords
+26/05/2020 14:16:05 devpinoyLogger Keywords defined as writeInInput
+26/05/2020 14:16:05 devpinoyLogger Inside Execute Data is config|DobDay
+26/05/2020 14:16:05 devpinoyLogger Inside Execute Before OBJECT is DobDy
+26/05/2020 14:16:05 devpinoyLogger Writing in text box 15
+26/05/2020 14:16:05 devpinoyLogger Writing Object in text box DobDy
+26/05/2020 14:16:10 devpinoyLogger ----Pass
+26/05/2020 14:16:10 devpinoyLogger Inside executeKeywords
+26/05/2020 14:16:10 devpinoyLogger Keywords defined as writeInInput
+26/05/2020 14:16:10 devpinoyLogger Inside Execute Data is config|DobMonth
+26/05/2020 14:16:10 devpinoyLogger Inside Execute Before OBJECT is DobMnth
+26/05/2020 14:16:10 devpinoyLogger Writing in text box MAR
+26/05/2020 14:16:10 devpinoyLogger Writing Object in text box DobMnth
+26/05/2020 14:16:15 devpinoyLogger ----Pass
+26/05/2020 14:16:15 devpinoyLogger Inside executeKeywords
+26/05/2020 14:16:15 devpinoyLogger Keywords defined as writeInInput
+26/05/2020 14:16:15 devpinoyLogger Inside Execute Data is config|DobYearr
+26/05/2020 14:16:15 devpinoyLogger Inside Execute Before OBJECT is DobYr
+26/05/2020 14:16:15 devpinoyLogger Writing in text box 2019
+26/05/2020 14:16:15 devpinoyLogger Writing Object in text box DobYr
+26/05/2020 14:16:20 devpinoyLogger ----Pass
+26/05/2020 14:16:20 devpinoyLogger Inside executeKeywords
+26/05/2020 14:16:20 devpinoyLogger Keywords defined as clickLink
+26/05/2020 14:16:20 devpinoyLogger Inside Execute Data is 
+26/05/2020 14:16:20 devpinoyLogger Inside Execute Before OBJECT is Gender
+26/05/2020 14:16:22 devpinoyLogger ----Pass
+26/05/2020 14:16:22 devpinoyLogger Inside executeKeywords
+26/05/2020 14:16:22 devpinoyLogger Keywords defined as writeInInput
+26/05/2020 14:16:22 devpinoyLogger Inside Execute Data is config|Scountry
+26/05/2020 14:16:22 devpinoyLogger Inside Execute Before OBJECT is Country
+26/05/2020 14:16:22 devpinoyLogger Writing in text box null
+26/05/2020 14:16:22 devpinoyLogger Writing Object in text box Country
+26/05/2020 14:16:27 devpinoyLogger ----Pass
